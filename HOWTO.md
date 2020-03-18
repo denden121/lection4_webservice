@@ -1,3 +1,5 @@
+Если у вас еще не установлен git, его можно скачать тут https://git-scm.com/book/ru/v2/Введение-Установка-Git
+
 # Работа с репозиторием
 
 Работа производится в ветках `release/block1`, `release/block2`, `release/block3`
